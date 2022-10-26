@@ -8,6 +8,8 @@ import awsconfig from '../src/aws-exports'
 
 Amplify.configure(awsconfig)
 
-applyPolyfills().then(() => {
-  defineCustomElements(window)
-})
+if (process.client) {
+  applyPolyfills().then(() => {
+    defineCustomElements(window)
+  })
+}
