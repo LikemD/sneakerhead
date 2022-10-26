@@ -10,6 +10,14 @@
       "StackName": "amplify-sneakerhead-dev-114415",
       "StackId": "arn:aws:cloudformation:us-east-1:826878626848:stack/amplify-sneakerhead-dev-114415/867d7a60-5523-11ed-82c2-120b8a97221f",
       "AmplifyAppId": "d2j3y6nsby9wr4"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2j3y6nsby9wr4",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
