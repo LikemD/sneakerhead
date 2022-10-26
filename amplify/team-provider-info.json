@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sneakerhead-dev-114415-authRole",
+      "UnauthRoleArn": "arn:aws:iam::826878626848:role/amplify-sneakerhead-dev-114415-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::826878626848:role/amplify-sneakerhead-dev-114415-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sneakerhead-dev-114415-deployment",
+      "UnauthRoleName": "amplify-sneakerhead-dev-114415-unauthRole",
+      "StackName": "amplify-sneakerhead-dev-114415",
+      "StackId": "arn:aws:cloudformation:us-east-1:826878626848:stack/amplify-sneakerhead-dev-114415/867d7a60-5523-11ed-82c2-120b8a97221f",
+      "AmplifyAppId": "d2j3y6nsby9wr4"
+    }
+  }
+}
